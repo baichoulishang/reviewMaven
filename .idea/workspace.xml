@@ -6,257 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20565e2b-560b-4fd7-a7e2-b6ef5a42aa0b" name="Default Changelist" comment="前后端分离了">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/mapper/SchoolMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/api/IBeanService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/api/IMyProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/api/IRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/api/IYwclService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/mapper/YwclMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/Blender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/School.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-api/target/reviewMaven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/RedisClient2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/WebSocket/WSServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/bean/methodBean/MethodBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/controller/FileController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/controller/MyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/controller/YwclController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/test/ProductObservable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/test/SuperUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/test/VolatileBarrierExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-controller/target/reviewMaven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/java/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/resources/mapper/SchoolMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/classes/service/BeanService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/classes/service/Interceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/classes/service/MyProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/classes/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/classes/service/YwclService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaModule/my-service/target/reviewMaven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/lib/my-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/lib/my-controller-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/lib/my-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="20565e2b-560b-4fd7-a7e2-b6ef5a42aa0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/IOTest/RedisClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/IOTest/RedisClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/IOTest/RedisClient1.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/IOTest/RedisClient1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/IOTest/RedisClient2.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/IOTest/RedisClient2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/IOTest/RedisServer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/IOTest/RedisServer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/IOTest/RedisServer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/IOTest/RedisServer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/IOTest/ServerConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/IOTest/ServerConnect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/IOTest/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/IOTest/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/WebSocket/WSServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/WebSocket/WSServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/api/IBeanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/api/IBeanService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/api/IInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/api/IInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/api/IMyProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/api/IMyProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/api/IRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/api/IRoleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/aspect/RoleAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/aspect/RoleAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/bean/BeanPostProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/bean/BeanPostProcessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/bean/DisposableBeanImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/bean/DisposableBeanImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/bean/methodBean/MethodBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/bean/methodBean/MethodBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/controller/FileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/controller/MyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/controller/RoleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/controller/WebSocketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/controller/WebSocketController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/controller/YwclController.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/controller/YwclController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/controller/eChartsModule/EchartsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/controller/eChartsModule/EchartsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/intercept/RoleIntercept.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/intercept/RoleIntercept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/mapper/RoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/mapper/RoleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/mapper/YwclMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/mapper/YwclMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/objFactory/MyObjFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/objFactory/MyObjFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/Blender.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/Blender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/JuiceMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/JuiceMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/JuiceMaker2.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/JuiceMaker2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/PageParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/PageParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/RoleParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/RoleParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/Source.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/pojo/YwclCaseVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/pojo/YwclCaseVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/service/BeanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/java/service/BeanService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/service/ExcelExportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/api/ExcelExportService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/service/Interceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/java/service/Interceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/service/MyProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/java/service/MyProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/service/RoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/service/YwclService.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/src/main/java/api/IYwclService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/serviceImp/RoleServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/serviceImp/YwclImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/java/service/YwclService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/task/FlightTrainTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/task/FlightTrainTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/test/ClassLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/Dispatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/DynamicDispatch$Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/DynamicDispatch$Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/DynamicDispatch$Woman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/DynamicDispatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/DynamicDispatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/JdkProxyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/test/JdkProxyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/MyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/MyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/ProductObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/test/ProductObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/SpringIoCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/SuperUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/test/SuperUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/TaobaoObverser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/TestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/VolatileBarrierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/test/VolatileBarrierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/test/cssSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/test/cssSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/DateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/DbcpDataSourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/DbcpDataSourceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/FreeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/FreeProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/FunnelRateLimiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/FunnelRateLimiter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/JdbcUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/JdbcUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/JsonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/JsonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/MyCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/MyCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/PinYinUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/PinYinUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/SqlMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/SqlMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/SqlSessionFactoryUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/SqlSessionFactoryUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/StaticDispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/StaticDispatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/SuperUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/SuperUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/src/main/java/com/utils/TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/src/main/java/com/utils/TrieTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/RedisClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/RedisClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/RedisClient1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/RedisClient1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/RedisClient2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/RedisClient2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/RedisClient2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/RedisServer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/RedisServer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/RedisServer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/RedisServer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/RequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/ServerConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/ServerConnect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/IOTest/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/IOTest/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/WebSocket/WSServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/api/IBeanService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/api/IInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/api/IInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/api/IMyProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/api/IRoleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/aspect/RoleAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/aspect/RoleAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/bean/BeanPostProcessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/bean/BeanPostProcessorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/bean/DisposableBeanImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/bean/DisposableBeanImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/bean/methodBean/MethodBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/controller/FileController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/controller/FileController$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/controller/FileController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/controller/MyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/controller/RoleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/controller/WebSocketController.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/controller/WebSocketController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/controller/YwclController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/controller/eChartsModule/EchartsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/controller/eChartsModule/EchartsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/intercept/RoleIntercept.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/intercept/RoleIntercept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/mapper/RoleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/mapper/YwclMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/objFactory/MyObjFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/objFactory/MyObjFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/Blender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/JuiceMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/JuiceMaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/JuiceMaker2.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/JuiceMaker2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/PageParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/PageParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/RoleParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/RoleParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/Source.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/Source.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/pojo/YwclCaseVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/pojo/YwclCaseVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/service/BeanService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/service/Interceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/service/MyProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/service/RoleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/serviceImp/RoleServiceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/serviceImp/YwclImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/ssm/service/ExcelExportService.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/classes/api/ExcelExportService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/ssm/service/YwclService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/task/FlightTrainTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/task/FlightTrainTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/ClassLoaderTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/test/ClassLoaderTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/ClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/test/ClassLoaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/Dispatch$Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/Dispatch$QQ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/Dispatch$Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/Dispatch$_360.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/Dispatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/DynamicDispatch$Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/DynamicDispatch$Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/DynamicDispatch$Woman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/DynamicDispatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/JdkProxyExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/test/JdkProxyExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/MyTest$Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/MyTest$Extend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/MyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/ProductObservable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/SpringIoCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/SuperUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/TaobaoObverser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/TestClass$Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/TestClass$Sub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/VolatileBarrierExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/test/cssSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/test/cssSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/DateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/DateUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/DbcpDataSourceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/DbcpDataSourceFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/FreeProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/FreeProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/FunnelRateLimiter$Funnel.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/FunnelRateLimiter$Funnel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/FunnelRateLimiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/FunnelRateLimiter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/JsonResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/JsonResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/MyCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/MyCache$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/MyCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/MyCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/PinYinUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/PinYinUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SqlMapper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SqlMapper$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SqlMapper$MSUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SqlMapper$MSUtils$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SqlMapper$MSUtils$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SqlMapper$MSUtils$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SqlMapper$MSUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SqlMapper$MSUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SqlMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SqlMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SqlSessionFactoryUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SqlSessionFactoryUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/StaticDispatch$Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/StaticDispatch$Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/StaticDispatch$Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/StaticDispatch$Man.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/StaticDispatch$Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/StaticDispatch$Woman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/StaticDispatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/StaticDispatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SuperUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SuperUtil$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SuperUtil$TaskMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SuperUtil$TaskMonitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/SuperUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/SuperUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/Test$child.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/Test$child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/TrieTree$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/TrieTree$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/TrieTree$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/TrieTree$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/classes/com/utils/TrieTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/classes/com/utils/TrieTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-module/target/reviewMaven.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/src/main/resources/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/src/main/resources/mapper/YwclMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaModule/my-service/src/main/resources/mapper/YwclMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/classes/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/classes/mapper/RoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/classes/mapper/YwclMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/classes/mapper/YwclMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/classes/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module.war" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/mapper/RoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/mapper/YwclMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/mapper/YwclMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/WEB-INF/lib/java-module-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/core/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/core/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/core/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/core/layui/css/layui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-module/target/web-module/core/layui/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module/core/layui/font/iconfont.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +98,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaModule/my-service/src/main/resources/mapper" />
+    <property name="last_opened_file_path" value="E:/study/project/改造成分布式" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -672,7 +423,7 @@
       <workItem from="1578216239581" duration="3307000" />
       <workItem from="1578655285479" duration="5720000" />
       <workItem from="1578662808280" duration="2870000" />
-      <workItem from="1578700441386" duration="758000" />
+      <workItem from="1578700441386" duration="2255000" />
     </task>
     <task id="LOCAL-00001" summary="前后端分离了">
       <created>1578217288209</created>
@@ -688,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578217503677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="前后端分离了">
+      <created>1578701343665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578701343666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -743,10 +501,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="779" y="425" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2048.1112@0.0.2048.1112" timestamp="1576289539548" />
-    <state x="628" y="149" key="CommitChangelistDialog2" timestamp="1578701283782">
+    <state x="628" y="149" key="CommitChangelistDialog2" timestamp="1578701336380">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="628" y="149" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1578701283782" />
+    <state x="628" y="149" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1578701336380" />
     <state width="654" height="466" key="DebuggerActiveHint" timestamp="1576997268516">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -755,10 +513,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="771" y="249" key="DetectedRootsChooserDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1578662639173" />
-    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1578664376370">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1578701473880">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1578664376370" />
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1578701473880" />
     <state x="883" y="447" width="517" height="218" key="Github.ShareDialog" timestamp="1578103190191">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -851,10 +609,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="746" y="298" width="540" height="524" key="StructurePopup/0.0.2048.1112@0.0.2048.1112" timestamp="1576242889106" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578217629312">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578701358863">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1578217629312" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1578701358863" />
     <state x="818" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578217514669">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -867,10 +625,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="755" y="309" width="538" height="502" key="extract.method.dialog/0.0.2048.1112@0.0.2048.1112" timestamp="1576976796927" />
-    <state x="703" y="294" width="782" height="600" key="find.popup" timestamp="1578664574235">
+    <state x="703" y="294" width="782" height="600" key="find.popup" timestamp="1578709727166">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="703" y="294" width="782" height="600" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1578664574235" />
+    <state x="703" y="294" width="782" height="600" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1578709727166" />
     <state x="285" y="120" width="1123" height="818" key="new project wizard" timestamp="1578662979442">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

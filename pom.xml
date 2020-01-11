@@ -12,9 +12,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>web-module</module>
-        <module>javaModule/my-api</module>
-        <module>javaModule/my-controller</module>
-        <module>javaModule/my-service</module>
+        <module>java-module/my-api</module>
+        <module>java-module/my-controller</module>
+        <module>java-module/my-service</module>
     </modules>
     <!--打包类型-->
     <packaging>pom</packaging>
